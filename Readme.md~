@@ -6,7 +6,7 @@ SNN outperformed Inception and ResNet at a higher learning rate for pneumonia.
 
 
 ## Pneumonia
-The dataset is publically available in https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
+The dataset is publicly available in https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
 
 
 ### Time taken by different models for training pneumonia
@@ -31,3 +31,9 @@ x axis represents epochs and y axis presents training time in seconds
 
 
 ## Malaria
+
+The dataset is publicly available in https://lhncbc.nlm.nih.gov/publication/pub9932
+
+### SNN v Inception performance on malaria
+![](images/performance_malaria.png)
+

@@ -34,4 +34,6 @@ x axis represents epochs and y axis presents training time in seconds
 
 The dataset is publicly available in https://lhncbc.nlm.nih.gov/publication/pub9932
 
+### SNN v Inception performance on malaria
+![](images/performance_malaria.png)
 
