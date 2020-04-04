@@ -10,11 +10,8 @@ SNN outperformed Inception and ResNet at a higher learning rate for pneumonia.
 x axis represents epochs and y axis presents training time in seconds
 
 ## Training accuracy of different models for pneumonia
-![](images/training_accuracy_pneumonia.png)
 
-x axis represents epochs and y axis presents training time in seconds
+
 
 ## Validation accuracy of different models for pneumonia
 ![](images/validation_accuracy_pneu.png)
-
-x axis represents epochs and y axis presents training time in seconds
