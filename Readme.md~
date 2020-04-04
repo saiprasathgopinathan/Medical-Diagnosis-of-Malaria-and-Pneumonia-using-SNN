@@ -9,7 +9,7 @@ The dataset is publically available in https://www.kaggle.com/paultimothymooney/
 ## Time taken by different models for training pneumonia
 ![](images/pneu_training_time.png)
 
-SNN model is able to train faster than other models is because it's trained with small images, thus the number of convolutions operations to be performed is less. 
+SNN model is able to train faster than other models, because it's capable of training with images of smaller size, thus the number of convolutions operations to be performed is less, speeding the training process. 
 
 x axis represents epochs and y axis presents training time in seconds
 
