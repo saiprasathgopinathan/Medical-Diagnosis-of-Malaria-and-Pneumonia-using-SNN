@@ -1,8 +1,18 @@
 # Medical Diagnosis of Malaria and Pneumonia using SNN
 
-Self Normalizing Neural Networks are used for diagnosing malaria and pneumonia and compared with the ResNet and Inception performance.
-SNN performs almost better than Inception and ResNet, with very low computing time at low learning rate for malaria and pneumonia.
-SNN outperformed Inception and ResNet at a higher learning rate for pneumonia. 
+Self Normalizing Neural Networks are used for diagnosing malaria and pneumonia and compared with the Inception model's performance.
+SNN performs same as Inception, with very low computing time at low learning rate for malaria and pneumonia.
+SNN outperformed Inception at a higher learning rate for pneumonia. 
+
+SNN is a model inspired from ResNet. SNN uses the skip connection like ResNet and adds the tensor outputs of both the connections together.
+SNN employs both short and long skip connections, as a result of which convergence is better and faster. 
+
+
+
+## SNN architecture
+
+
+![](images/SNN_architecture.png)
 
 
 ## Pneumonia
