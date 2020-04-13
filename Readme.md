@@ -7,6 +7,8 @@ SNN outperformed Inception at a higher learning rate for pneumonia.
 SNN is a model inspired from ResNet. SNN uses the skip connection like ResNet and adds the tensor outputs of both the connections together.
 SNN employs both short and long skip connections, as a result of which convergence is better and faster. 
 
+Both connections are used because the spatial information lost along is recovered in the by long skip connections. Similarly the spatial information skipped due to long skip connections is obtained using short skip connections. 
+
 
 
 ## SNN architecture
